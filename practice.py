@@ -14,5 +14,8 @@ else:
     print("sum")
 
     n=80
+    m=10
+    sum=n+m
     
+
 
