@@ -1,0 +1,22 @@
+{
+  "student": {
+    "name": "Nasteho Abdi Aden",
+    "course": "Git & GitHub Bootcamp",
+    "lesson": "Lesson 2 - Git Basics",
+    "instructor": "Sharafdin"
+  },
+  "project": {
+    "name": "Git Basics Practice",
+    "status": "In Progress",
+    "repository": "Local Git Repository"
+  },
+  "skills": [
+    "git init",
+    "git status",
+    "git diff",
+    "git add",
+    "git commit",
+    "git log"
+  ],
+  "goal": "Inaan si fiican u barto Git iyo GitHub."
+}
