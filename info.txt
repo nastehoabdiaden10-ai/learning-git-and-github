@@ -1,1 +1,30 @@
-AI is a branch of computer science dedicted to build smart machines 
+==================================================
+            AI (ARTIFICIAL INTELLIGENCE) INFO
+==================================================
+
+1. WHAT IS AI?
+--------------
+Artificial Intelligence (AI) is a branch of computer science dedicated to building smart machines capable of performing tasks that typically require human intelligence, such as learning, reasoning, and problem-solving.
+
+2. THE AI/ML LIFECYCLE:
+-----------------------
+* Data Collection: Gathering raw data from various sources.
+* Data Cleaning & Prep: Processing and cleaning data to fix anomalies.
+* Model Training: Feeding data into algorithms so the machine can learn.
+* Evaluation: Testing the model to ensure its accuracy and performance.
+* Deployment: Launching the model into a production environment.
+
+3. HANDLING DATA ANOMALIES:
+---------------------------
+To build reliable AI models, datasets must be checked for:
+* Outliers: Extreme values that deviate significantly from the rest of the data.
+* Missing Values: Gaps or unrecorded data points that can skew results.
+
+4. COMMON TOOLS & ENVIRONMENT:
+------------------------------
+* Programming Language: Python
+* Version Control: Git & GitHub
+* IDE/Workspace: VS Code / Jupyter Notebooks
+
+---
+Prepared: July 2026
