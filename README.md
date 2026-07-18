@@ -75,6 +75,7 @@ git log --oneline
 - Viewing commit history
 - Managing project versions
 
-## Conclusion
+## git basics 
+## conclusion :
 
 This project helped me understand the basic concepts of Git and practice the daily Git workflow used by software developers.
