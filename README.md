@@ -37,12 +37,12 @@ git log --oneline
 - notes.txt
 - names.txt
 - journal.md
-- students.csv
+- maaahmaahyo.txt
 - data.json
 - index.html
 - style.css
 - info.txt
-- tasks.md
+- xigmad.txt
 
 ## Git Workflow
 
