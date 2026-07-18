@@ -16,7 +16,7 @@ else:
     n=80
     m=10
     sum=n+m
-    print()
+    print("sun")
 
 
 
