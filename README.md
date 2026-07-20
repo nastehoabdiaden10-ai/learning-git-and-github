@@ -2,7 +2,7 @@
 
 ## Student Information
 
-**Name:** Nasteho Abdi Aden
+**Name:** Nasteho Abdi ducaale
 
 ## Project Description
 
